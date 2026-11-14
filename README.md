@@ -27,9 +27,9 @@
 
 This repository contains a modified build of the Hiddify Android client. The key difference from the original app is support for binding a subscription to the device hardware identifier (HWID / Android ID).
 
-Оригинальный Hiddify — это мультиплатформенный прокси-клиент на базе Sing-box, распространяемый под лицензией GPLv3 [citation:1][citation:2]. Данная модификация сохраняет исходную функциональность клиента и добавляет механизм HWID.
+Оригинальный Hiddify — это мультиплатформенный прокси-клиент на базе Sing-box, распространяемый под лицензией GPLv3. Данная модификация сохраняет исходную функциональность клиента и добавляет механизм HWID.
 
-The original Hiddify is a multi-platform proxy client based on Sing-box, distributed under GPLv3 [citation:1][citation:2]. This modification preserves the original client functionality and adds the HWID mechanism.
+The original Hiddify is a multi-platform proxy client based on Sing-box, distributed under GPLv3. This modification preserves the original client functionality and adds the HWID mechanism.
 
 ---
 
@@ -54,9 +54,9 @@ Build links will be added to the Releases section of this repository.
 
 ## ✏️ Примечание о лицензии / License Note
 
-Данный проект является модификацией Hiddify (https://github.com/hiddify/hiddify-app). Оригинальный код распространяется под GNU General Public License v3 с дополнительными условиями [citation:1][citation:10]. В соответствии с лицензией, мы уведомляем, что код был изменён, и сохраняем ссылку на оригинальный репозиторий.
+Данный проект является модификацией Hiddify (https://github.com/hiddify/hiddify-app). Оригинальный код распространяется под GNU General Public License v3 с дополнительными условиями. В соответствии с лицензией, мы уведомляем, что код был изменён, и сохраняем ссылку на оригинальный репозиторий.
 
-This project is a modification of Hiddify (https://github.com/hiddify/hiddify-app). The original code is distributed under the GNU General Public License v3 with additional terms [citation:1][citation:10]. In accordance with the license, we notify that the code has been modified and retain a link to the original repository.
+This project is a modification of Hiddify (https://github.com/hiddify/hiddify-app). The original code is distributed under the GNU General Public License v3 with additional terms. In accordance with the license, we notify that the code has been modified and retain a link to the original repository.
 
 Полный текст лицензии доступен в оригинальном репозитории: https://github.com/hiddify/hiddify-app/blob/main/LICENSE.md
 
